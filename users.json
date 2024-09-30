@@ -1,0 +1,9 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"epstopik"},
+{"type":"table","name":"users","database":"epstopik","data":
+[
+{"id":"1","username":"085779012194","password":"12345","nama":"에코 푸지얀토","jumlah_pengguna":"1"}
+]
+}
+]
